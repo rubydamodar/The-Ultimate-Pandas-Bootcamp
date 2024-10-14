@@ -181,6 +181,9 @@
 - Hands-on Project: Data Analysis using Series and DataFrames
 - Peer Review and Feedback Session
 
+**Special Thanks to the Contributors**
+- GitHub IDs: [rubydamodar](https://github.com/rubydamodar) and [jiwooverse](https://github.com/jiwooverse), who are actively working on this project!
+
 ---
 
 This syllabus starts from the very basics and builds up to advanced concepts, ensuring a thorough understanding of **Pandas Series and DataFrames**. Let me know if there are any specific areas you would like to explore further or if you need additional resources!
