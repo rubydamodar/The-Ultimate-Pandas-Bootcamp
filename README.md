@@ -18,7 +18,6 @@
     ```python
     import pandas as pd
     ```
-
 ---
 
 #### **Module 2: Basics of Pandas Series**
