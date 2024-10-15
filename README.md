@@ -189,4 +189,3 @@
 - GitHub IDs: [rubydamodar](https://github.com/rubydamodar) and [jiwooverse](https://github.com/jiwooverse), who are actively working on this project!
 
 ---
-
