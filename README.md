@@ -3,7 +3,6 @@
 ![image](https://github.com/user-attachments/assets/7199d48b-ad05-4ec6-8839-7112ebb9defa)
 
 
-
 ---
 
 #### **Module 1: Introduction to Pandas**
