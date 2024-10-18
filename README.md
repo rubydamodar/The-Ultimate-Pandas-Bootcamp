@@ -1,3 +1,4 @@
+
 #### **Pandas Course Syllabus**
 
 ---
